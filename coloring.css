@@ -1,0 +1,113 @@
+.Bodee
+{
+    background: linear-gradient(rgb(28, 2, 41),rgb(0,0,0), rgb(39, 2, 56),rgb(0,0,0),rgb(28,2,41));
+}
+
+.Title
+{
+    text-align:center;
+    color: rgb(89, 3, 129);
+}
+
+.Container
+{
+    padding: 10px;
+}
+
+.Color
+{
+    Width: 200px;
+    height:20px;
+    margin:10px auto;
+}
+
+.Red
+{
+   background:linear-gradient( rgb(139, 1, 1),rgb(255,0,0),rgb(139,1,1));
+}
+
+.Green
+{
+    background:linear-gradient( rgb(0,80,0),rgb(0,120,0),rgb(0,80,0));
+}
+
+.Blue
+{
+    background:linear-gradient(rgb(2, 2, 133),rgb(0,0,255),rgb(2,2,133));
+}
+
+.Yellow
+{
+    background:linear-gradient( rgb(184, 184, 1),rgb(255,255,0),rgb(184,194,1));
+}
+
+.Grey
+{
+    background: linear-gradient(rgb(121, 120, 120) ,rgb(154,154,154),rgb(121,120,120));
+}
+
+.Azure
+{
+    background: linear-gradient(rgb(0, 96, 165),rgb(0, 123, 211),rgb(0,96,165));
+}
+
+.Purple
+{
+    background:linear-gradient(rgb(50, 1, 73),rgb(89, 3, 129),rgb(50,1,73));
+}
+
+.Pink
+{
+    background:linear-gradient(rgb(136, 0, 102), rgb(194, 4, 146),rgb(136,0,102));
+}
+
+.Greenwood
+{
+    background:linear-gradient( rgb(0, 175, 0),rgb(0,255,0),rgb(0,175,0));
+}
+
+.Brown
+{
+    background:linear-gradient(rgb(134, 43, 1),rgb(158, 51, 2),rgb(134,43,1));
+}
+
+.Brownwood
+{
+    background: linear-gradient(rgb(155, 53, 5),rgb(199, 67, 5),rgb(155,53,5));
+}
+
+.Gold
+{
+    background: linear-gradient(rgb(158, 142, 1),rgb(197, 177, 0),rgb(158,142,1));
+}
+
+.White
+{
+     background:linear-gradient(rgb(187, 184, 184),rgb(255, 255, 255),rgb(187, 184, 184));
+}
+
+.Black
+{
+    background:linear-gradient( rgb(10, 10, 10), rgb(0,0,0),rgb(10,10,10));
+}
+
+.Silker
+{
+   padding: 10px;
+   width: 80px;
+}
+
+.Marks
+{
+    border-left: 10px  double rgba(0,0,0);
+    background-color: rgba(255,255,255,0.5);
+    height: 20px;
+    width:75px;
+}
+
+.Silker,.Marks
+{
+    display:inline-block;
+}
+
+
